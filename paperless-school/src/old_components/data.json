@@ -1,0 +1,24 @@
+[
+    {
+      "std": "class - I",
+      "languages": [
+        {
+          "name": "Marathi"
+        },
+        {
+          "name": "Hindi"
+        }
+      ]
+    },
+    {
+      "std": "Class - II",
+      "languages": [
+        {
+          "name": "English"
+        },
+        {
+          "name": "Math"
+        }
+      ]
+    }
+  ]
